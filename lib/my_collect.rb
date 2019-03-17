@@ -2,8 +2,11 @@
   #new_array = []
   #i = 0
   #while i < array.length
-  #do |name|.split(" ").first
+  yield 
+  new_array.push(array[i])
+  #do 
 #end 
+new_array
 #end
 
   
