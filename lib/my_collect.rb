@@ -3,6 +3,7 @@ def my_collect(array)
   while i < array.length
   do |name|.split(" ").first
 end 
+end
 
   
 
